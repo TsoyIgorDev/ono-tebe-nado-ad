@@ -1,1 +1,1 @@
-https://github.com/TsoyIgorDev/ono-tebe-nado
+https://github.com/TsoyIgorDev/ono-tebe-nado-ad
